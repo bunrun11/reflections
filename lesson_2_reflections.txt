@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It makes an empty list of commits... to make the list (idk)
